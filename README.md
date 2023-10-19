@@ -8,7 +8,9 @@ Eles vieram de vários fontes, logo, os créditos devem ir para os autores, que 
 Créditos:
 
 - https://refactoring.guru
+- https://sourcemaking.com
 - https://en.wikipedia.org/wiki/Factory_method_pattern
-
+- https://github.com/fadeevab/design-patterns-rust
+- https://github.com/lpxxn/rust-design-pattern
 
 
