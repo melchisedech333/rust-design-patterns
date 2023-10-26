@@ -13,5 +13,6 @@ Créditos:
 - https://chercher.tech/rust/decorator-design-pattern-rust
 - https://impl.rs/blog/rust-decorator-pattern/
 - https://www.hackingwithrust.net/2023/06/03/the-decorator-pattern-an-easy-way-to-add-functionality/
+- https://github.com/arkada38/Rust-Design-Patterns
 
 
