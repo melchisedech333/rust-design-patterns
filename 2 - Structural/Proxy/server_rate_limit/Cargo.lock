@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "conceptual_nginx"
+name = "server_rate_limit"
 version = "0.1.0"

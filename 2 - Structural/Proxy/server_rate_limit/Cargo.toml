@@ -1,5 +1,5 @@
 [package]
-name = "conceptual_nginx"
+name = "server_rate_limit"
 version = "0.1.0"
 edition = "2021"
 
