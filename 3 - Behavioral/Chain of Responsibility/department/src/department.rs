@@ -1,7 +1,10 @@
 
 /// Na explicação do conceito é comum encontrar um BaseHandler, que é uma imple-
 /// mentação  abstrata do Handler, que será implementado pelos ConcreteHandlers.
-/// Eis aqui um exemplo de abstract Handler.
+/// Podemos  possuir  uma interface abstrata e um BaseHandler que implementa al-
+/// guns  métodos  padrões,  que serão herdados (via herança) por implementações
+/// concretas.  Indepente  o  modo com que se realiza esse ponto, o importante é 
+/// possuir uma abstração padrão onde os handlers concretos vão utilizá-la.
 
 use crate::patient::Patient;
 
