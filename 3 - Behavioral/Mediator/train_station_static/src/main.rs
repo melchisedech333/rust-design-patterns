@@ -1,6 +1,7 @@
 
 /// Código cliente fazendo uso da interface da estação e exemplificando o uso
-/// do padrão.
+/// do padrão. Essa é uma abordagem estática do conceito do Mediator, também
+/// conhecida como "Mediator with Top-Down Ownership".
 
 mod train_station;
 mod trains;
