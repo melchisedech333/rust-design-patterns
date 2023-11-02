@@ -42,7 +42,7 @@ impl Originator {
     }
 }
 
-/// Exemplificação de um cliente.
+/// Exemplificação de um cliente e Caretaker.
 fn main() {
 
     // Cria o histórico das modificações.
