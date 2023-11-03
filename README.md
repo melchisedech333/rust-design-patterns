@@ -21,5 +21,6 @@ Créditos:
 - https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html
 - https://aloso.github.io/2021/03/18/raii-guards.html
 - https://rust-unofficial.github.io/patterns/patterns/structural/compose-structs.html
+- https://users.rust-lang.org/t/fold-pattern-compared-with-visitor-pattern/77480/2
 
 
