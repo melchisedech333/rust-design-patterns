@@ -20,5 +20,6 @@ Créditos:
 - https://rust-unofficial.github.io/patterns/patterns/behavioural/newtype.html
 - https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html
 - https://aloso.github.io/2021/03/18/raii-guards.html
+- https://rust-unofficial.github.io/patterns/patterns/structural/compose-structs.html
 
 
