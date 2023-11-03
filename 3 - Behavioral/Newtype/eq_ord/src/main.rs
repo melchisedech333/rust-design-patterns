@@ -39,7 +39,7 @@ impl fmt::Display for Book {
     }
 }
 
-impl fmt::Display for BookFormat{
+impl fmt::Display for BookFormat {
     fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
         let printable = match *self {
             BookFormat::Paperback => String::from("Paperback"),
